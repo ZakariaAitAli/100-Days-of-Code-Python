@@ -13,6 +13,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dc0e45f4-e4da-4148-a840-7a062ba11cf5" />
+        <option name="url" value="https://github.com/ZakariaAitAli/100-Days-of-Code-Python.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -46,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675070882749</updated>
-      <workItem from="1675070885448" duration="502000" />
+      <workItem from="1675070885448" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="Day 14">
       <created>1675071335325</created>
