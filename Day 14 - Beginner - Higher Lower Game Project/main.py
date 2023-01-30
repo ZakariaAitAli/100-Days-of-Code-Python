@@ -32,7 +32,6 @@ def game():
     print(logo)
     score = 0
     game_should_continue = True
-    account_a = get_random_account()
     account_b = get_random_account()
 
     while game_should_continue:
