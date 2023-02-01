@@ -4,9 +4,9 @@
 
 Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, this is my projects done for this course by Angela Yu in Udemy
 
-100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python.
+100 days, learn to build 1 project per day, this is how you master Python.
 
-At 60+ hours,from this Python course I learnt without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. Here's why:
+At 69+ hours,from this Python course I learnt without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional. Here's why:
 
 The course is taught by the lead instructor at the App Brewery, London's best in-person programming Bootcamp.
 
