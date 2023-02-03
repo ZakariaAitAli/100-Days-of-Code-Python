@@ -22,6 +22,7 @@ t.colormode(255)
 tim = t.Turtle()
 tim.penup()
 tim.speed("fastest")
+tim.hideturtle()
 
 tim.setheading(225)
 tim.forward(300)
