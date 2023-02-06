@@ -7,11 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 18">
-      <change afterPath="$PROJECT_DIR$/Day 19 - Intermediate - Instances, State and Higher Order Functions/Etch-a-Sketch/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 19 - Intermediate - Instances, State and Higher Order Functions/turtles-race/main.py" afterDir="false" />
+    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 20 Snake Game Part 1">
+      <change afterPath="$PROJECT_DIR$/Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance &amp; list Slicing/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance &amp; list Slicing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance &amp; list Slicing/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance &amp; list Slicing/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 18 - Intermediate - Turtle &amp; the Graphical User Interface (GUI)/shapes/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 18 - Intermediate - Turtle &amp; the Graphical User Interface (GUI)/shapes/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,24 +53,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Github/100-Days-of-Code-Python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "D:/Github/100-Days-of-Code-Python/Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance & list Slicing",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\100-Days-of-Code-Python\Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance &amp; list Slicing" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Github\100-Days-of-Code-Python\Day 19 - Intermediate - Instances, State and Higher Order Functions\turtles-race" />
       <recent name="D:\Github\100-Days-of-Code-Python\Day 18 - Intermediate - Turtle &amp; the Graphical User Interface (GUI)\random walk" />
@@ -90,7 +94,9 @@
       <workItem from="1675256342616" duration="5952000" />
       <workItem from="1675350744379" duration="7452000" />
       <workItem from="1675434357431" duration="8933000" />
-      <workItem from="1675515437074" duration="9859000" />
+      <workItem from="1675515437074" duration="10627000" />
+      <workItem from="1675616818267" duration="6214000" />
+      <workItem from="1675707475034" duration="5132000" />
     </task>
     <task id="LOCAL-00001" summary="Day 14">
       <created>1675071335325</created>
@@ -134,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675443449830</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 19">
+      <created>1675527495225</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675527495225</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day 20 Snake Game Part 1">
+      <created>1675623034712</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675623034713</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,11 +184,15 @@
     <MESSAGE value="Day 16" />
     <MESSAGE value="Day 17" />
     <MESSAGE value="Day 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 18" />
+    <MESSAGE value="Day 19" />
+    <MESSAGE value="Day 20 Snake Game Part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 20 Snake Game Part 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$snake.coverage" NAME="snake Coverage Results" MODIFIED="1675622879896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 20 - Intermediate - Build the Snake Game Part 1 Animation &amp; Coordinates" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$quiz_brain.coverage" NAME="quiz_brain Coverage Results" MODIFIED="1675360087949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
-    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1675527160101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 19 - Intermediate - Instances, State and Higher Order Functions/turtles-race" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1675713639916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance &amp; list Slicing" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1675712041986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance &amp; list Slicing" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1675260072018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 16 - Intermediate - Object Oriented Programming (OOP)" />
   </component>
 </project>
