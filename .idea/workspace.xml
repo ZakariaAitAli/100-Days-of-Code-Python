@@ -7,11 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 22 Pong Game">
-      <change afterPath="$PROJECT_DIR$/Day 23 - Intermediate - The Turtle Crossing Capstone Project/car_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23 - Intermediate - The Turtle Crossing Capstone Project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23 - Intermediate - The Turtle Crossing Capstone Project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 23 - Intermediate - The Turtle Crossing Capstone Project/scoreboard.py" afterDir="false" />
+    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 23 Turtle Crossing Game">
+      <change afterPath="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +49,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -98,7 +96,8 @@
       <workItem from="1675616818267" duration="6214000" />
       <workItem from="1675707475034" duration="6797000" />
       <workItem from="1675786154478" duration="10496000" />
-      <workItem from="1675882575623" duration="4436000" />
+      <workItem from="1675882575623" duration="4549000" />
+      <workItem from="1675953095219" duration="5931000" />
     </task>
     <task id="LOCAL-00001" summary="Day 14">
       <created>1675071335325</created>
@@ -177,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675797207049</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Day 23 Turtle Crossing Game">
+      <created>1675887111535</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675887111535</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,13 +217,14 @@
     <MESSAGE value="Day 20 Snake Game Part 1" />
     <MESSAGE value="Day 21 Snake Game final Part" />
     <MESSAGE value="Day 22 Pong Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 22 Pong Game" />
+    <MESSAGE value="Day 23 Turtle Crossing Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 23 Turtle Crossing Game" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$snake.coverage" NAME="snake Coverage Results" MODIFIED="1675622879896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 20 - Intermediate - Build the Snake Game Part 1 Animation &amp; Coordinates" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$snake.coverage" NAME="snake Coverage Results" MODIFIED="1675962846437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$quiz_brain.coverage" NAME="quiz_brain Coverage Results" MODIFIED="1675360087949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
-    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1675887023120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 23 - Intermediate - The Turtle Crossing Capstone Project" />
-    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1675712041986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 21 - Intermediate - Build the Snake Game Part 2 Inheritance &amp; list Slicing" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1675965380818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1675963780820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1675260072018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 16 - Intermediate - Object Oriented Programming (OOP)" />
   </component>
 </project>
