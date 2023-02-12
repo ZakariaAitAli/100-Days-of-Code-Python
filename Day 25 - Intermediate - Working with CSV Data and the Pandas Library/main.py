@@ -17,7 +17,7 @@ turtle.shape(image)
 data = pandas.read_csv("50_states.csv")
 all_states = data.state.to_list()
 guessed_states = []
-# print(all_states)
+print(all_states)
 
 
 while len(guessed_states) < 50:
