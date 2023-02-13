@@ -7,7 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 25 U.S State guessing Game" />
+    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 25 U.S State guessing Game">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 25 - Intermediate - Working with CSV Data and the Pandas Library/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25 - Intermediate - Working with CSV Data and the Pandas Library/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,23 +51,23 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "full.screen.before.presentation.mode": "false",
-    "last_opened_file_path": "D:/Github/100-Days-of-Code-Python/Day 25 - Intermediate - Working with CSV Data and the Pandas Library",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Github/100-Days-of-Code-Python/Day 25 - Intermediate - Working with CSV Data and the Pandas Library&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github\100-Days-of-Code-Python\Day 25 - Intermediate - Working with CSV Data and the Pandas Library" />
@@ -99,6 +102,8 @@
       <workItem from="1676059551062" duration="631000" />
       <workItem from="1676226566809" duration="9000" />
       <workItem from="1676226600596" duration="4877000" />
+      <workItem from="1676232921682" duration="117000" />
+      <workItem from="1676312531442" duration="660000" />
     </task>
     <task id="LOCAL-00001" summary="Day 14">
       <created>1675071335325</created>
@@ -205,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676232487431</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Day 25 U.S State guessing Game">
+      <created>1676233026224</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676233026224</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +259,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$snake.coverage" NAME="snake Coverage Results" MODIFIED="1675962846437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$quiz_brain.coverage" NAME="quiz_brain Coverage Results" MODIFIED="1675360087949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
-    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1676232338689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 25 - Intermediate - Working with CSV Data and the Pandas Library" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1676232952585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 25 - Intermediate - Working with CSV Data and the Pandas Library" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1675963780820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1675260072018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 16 - Intermediate - Object Oriented Programming (OOP)" />
   </component>
