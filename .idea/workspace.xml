@@ -7,7 +7,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 28 pomodoro GUI application" />
+    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 28 pomodoro GUI application">
+      <change afterPath="$PROJECT_DIR$/Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,7 +297,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$snake.coverage" NAME="snake Coverage Results" MODIFIED="1675962846437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$quiz_brain.coverage" NAME="quiz_brain Coverage Results" MODIFIED="1675360087949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 17 - Intermediate - The Quiz Project &amp; the Benefits of OOP" />
-    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1676494395398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 28 - Intermediate - Tkinter, Dynamic Typing and the Pomodoro GUI Application" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$main.coverage" NAME="main Coverage Results" MODIFIED="1676583506483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 29 - Intermediate - Building a Password Manager GUI App with Tkinter" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$mile_to_km.coverage" NAME="mile_to_km Coverage Results" MODIFIED="1676413055224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27 - Intermediate - Tkinter, args, kwargs and Creating GUI Programs" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1675963780820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$playground.coverage" NAME="playground Coverage Results" MODIFIED="1676412108309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 27 - Intermediate - Tkinter, args, kwargs and Creating GUI Programs" />
