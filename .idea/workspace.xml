@@ -7,29 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 28 pomodoro GUI application">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1- Beginner-Working with Variables in Python to Manage Data/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10 - Beginner - Functions with Outputs/art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10 - Beginner - Functions with Outputs/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11 - Beginner - The Blackjack Capstone Project/art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11 - Beginner - The Blackjack Capstone Project/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12 - Beginner - Scope &amp; Number Guessing Game/art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12 - Beginner - Scope &amp; Number Guessing Game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 13 - Beginner - Debugging How to Find and Fix Errors in your Code/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3 - Beginner - Control Flow and Logical Operators/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - Beginner - Randomisation and Python Lists/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5 - Beginner - Python Loops/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6 - Beginner - Python Functions &amp; Karel/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7 - Beginner - Hangman/hangman_art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7 - Beginner - Hangman/hangman_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7 - Beginner - Hangman/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8 - Beginner - Function Parameters &amp; Caesar Cipher/art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8 - Beginner - Function Parameters &amp; Caesar Cipher/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction/art.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Day 28 pomodoro GUI application" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +103,6 @@
       <workItem from="1676312531442" duration="2103000" />
       <workItem from="1676408615266" duration="4540000" />
       <workItem from="1676493552310" duration="2601000" />
-      <workItem from="1676549863135" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="Day 14">
       <created>1675071335325</created>
