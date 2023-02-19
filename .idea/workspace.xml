@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="update the password generator app">
-      <change afterPath="$PROJECT_DIR$/Day 31 - Intermediate - Flash Card App Capstone Project/data/french_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 31 - Intermediate - Flash Card App Capstone Project/data/words_to_learn.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 31 - Intermediate - Flash Card App Capstone Project/images/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 31 - Intermediate - Flash Card App Capstone Project/images/card_front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 31 - Intermediate - Flash Card App Capstone Project/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 31 - Intermediate - Flash Card App Capstone Project/images/wrong.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 31 - Intermediate - Flash Card App Capstone Project/main.py" afterDir="false" />
+    <list default="true" id="387b40bf-f0b5-4fd1-8999-2f623a9bada6" name="Changes" comment="Flash Card app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +103,7 @@
       <workItem from="1676408615266" duration="4540000" />
       <workItem from="1676493552310" duration="2601000" />
       <workItem from="1676667585990" duration="722000" />
-      <workItem from="1676753845335" duration="3152000" />
+      <workItem from="1676753845335" duration="3844000" />
     </task>
     <task id="LOCAL-00001" summary="Day 14">
       <created>1675071335325</created>
@@ -273,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676759465087</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Flash Card app">
+      <created>1676759504281</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676759504281</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +317,8 @@
     <MESSAGE value="Day 29 password generator using Tkinter" />
     <MESSAGE value="update pthe passzord generator app" />
     <MESSAGE value="update the password generator app" />
-    <option name="LAST_COMMIT_MESSAGE" value="update the password generator app" />
+    <MESSAGE value="Flash Card app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flash Card app" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100_Days_of_Code_Python$snake.coverage" NAME="snake Coverage Results" MODIFIED="1675962846437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 24 - Intermediate - Files, Directories and Paths" />
