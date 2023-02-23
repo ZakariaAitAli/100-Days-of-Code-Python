@@ -126,4 +126,4 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 
 - Google App Store Analysis
 
-and much much more!
+and many other projects
