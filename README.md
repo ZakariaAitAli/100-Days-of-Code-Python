@@ -127,3 +127,6 @@ You'll also build a portfolio of 100 projects that you can show off to any poten
 - Google App Store Analysis
 
 and many other projects
+
+
+Auth : Zakaria AIT ALI [zakariaaitali555@gmail.com]
